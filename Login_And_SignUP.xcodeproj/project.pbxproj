@@ -11,6 +11,7 @@
 		F1B3245927ECBBFB00510FFF /* ApiManagerBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B3245827ECBBFB00510FFF /* ApiManagerBase.swift */; };
 		F1B3245B27ECBD9700510FFF /* AppStateManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B3245A27ECBD9700510FFF /* AppStateManager.swift */; };
 		F1B3245D27ECBE5A00510FFF /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B3245C27ECBE5A00510FFF /* Constant.swift */; };
+		F1D6B0DA27ED957500F2396C /* loginModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D6B0D927ED957500F2396C /* loginModel.swift */; };
 		F1E0615727ECAAE80060AE89 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E0615627ECAAE80060AE89 /* AppDelegate.swift */; };
 		F1E0615927ECAAE80060AE89 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E0615827ECAAE80060AE89 /* SceneDelegate.swift */; };
 		F1E0615B27ECAAE80060AE89 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E0615A27ECAAE80060AE89 /* ViewController.swift */; };
@@ -31,6 +32,7 @@
 		F1B3245827ECBBFB00510FFF /* ApiManagerBase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiManagerBase.swift; sourceTree = "<group>"; };
 		F1B3245A27ECBD9700510FFF /* AppStateManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStateManager.swift; sourceTree = "<group>"; };
 		F1B3245C27ECBE5A00510FFF /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		F1D6B0D927ED957500F2396C /* loginModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginModel.swift; sourceTree = "<group>"; };
 		F1E0615327ECAAE80060AE89 /* Login_And_SignUP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Login_And_SignUP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1E0615627ECAAE80060AE89 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F1E0615827ECAAE80060AE89 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 				F1E0617827ECB87E0060AE89 /* UserApiManager.swift */,
 				F1B3245827ECBBFB00510FFF /* ApiManagerBase.swift */,
 				F1B3245A27ECBD9700510FFF /* AppStateManager.swift */,
+				F1D6B0D927ED957500F2396C /* loginModel.swift */,
 			);
 			path = "API Manager";
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				F1E0615B27ECAAE80060AE89 /* ViewController.swift in Sources */,
 				F1E0617027ECB3140060AE89 /* ExtensionTextField.swift in Sources */,
 				F1E0617927ECB87E0060AE89 /* UserApiManager.swift in Sources */,
+				F1D6B0DA27ED957500F2396C /* loginModel.swift in Sources */,
 				F1E0615727ECAAE80060AE89 /* AppDelegate.swift in Sources */,
 				F1E0616D27ECAE630060AE89 /* LoginVC.swift in Sources */,
 				F1E0615927ECAAE80060AE89 /* SceneDelegate.swift in Sources */,
